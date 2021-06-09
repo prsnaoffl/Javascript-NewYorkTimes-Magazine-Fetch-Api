@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+
+h1{
+    color: red;
+    font-family: 'Marck Script', cursive;
+    text-align: center;
+    font-size:4.5rem;
+    margin-top:20px;
+}
+
+.navbar {
+    margin:30px 100px ;
+    justify-content: space-between;
+    padding-left:30px;
+  }
+  
+  .nav-link {
+    font-size: 1.1em;
+    margin-left: 25px;
+    
+  }
+
+  .card{
+      border-radius:5px;
+      margin-bottom: 20px;
+      padding-left:25px; 
+    
+  }
+
+  .col-md-8 {
+      padding-top:17px;
+  }
+
+  .para{
+      position:absolute;
+      top: 53px;
+      left:110px;
+      font-weight: bold;
+      
+  }
